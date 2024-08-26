@@ -1,0 +1,102 @@
+{
+    "Juan01": {
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "direccion": {
+            "calle": "Calle Falsa 123",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "pais": "México"
+        }
+    },
+    "Ana02": {
+        "nombre": "Ana",
+        "apellido": "Gómez",
+        "direccion": {
+            "calle": "Av. Siempre Viva 742",
+            "ciudad": "Guadalajara",
+            "estado": "Jalisco",
+            "pais": "México"
+        }
+    },
+    "Carlos03": {
+        "nombre": "Carlos",
+        "apellido": "Ruiz",
+        "direccion": {
+            "calle": "Calle Olmo 456",
+            "ciudad": "Monterrey",
+            "estado": "Nuevo León",
+            "pais": "México"
+        }
+    },
+    "Maria04": {
+        "nombre": "Maria",
+        "apellido": "López",
+        "direccion": {
+            "calle": "Boulevard de los Sueños 321",
+            "ciudad": "Puebla",
+            "estado": "Puebla",
+            "pais": "México"
+        }
+    },
+    "Pedropedro05": {
+        "nombre": "Pedro",
+        "apellido": "Martínez",
+        "direccion": {
+            "calle": "Camino Real 789",
+            "ciudad": "Toluca",
+            "estado": "Estado de México",
+            "pais": "México"
+        }
+    },
+    "Laura06": {
+        "nombre": "Laura",
+        "apellido": "Fernández",
+        "direccion": {
+            "calle": "Avenida Reforma 987",
+            "ciudad": "Ciudad de México",
+            "estado": "CDMX",
+            "pais": "México"
+        }
+    },
+    "Jorge07": {
+        "nombre": "Jorge",
+        "apellido": "Ramírez",
+        "direccion": {
+            "calle": "Calle del Sol 654",
+            "ciudad": "Guadalajara",
+            "estado": "Jalisco",
+            "pais": "México"
+        }
+    },
+    "Elena08": {
+        "nombre": "Elena",
+        "apellido": "Morales",
+        "direccion": {
+            "calle": "Paseo de la Reforma 432",
+            "ciudad": "Querétaro",
+            "estado": "Querétaro",
+            "pais": "México"
+        }
+    },
+    "Luis09": {
+        "nombre": "Luis",
+        "apellido": "Sánchez",
+        "direccion": {
+            "calle": "Avenida Libertad 321",
+            "ciudad": "Mérida",
+            "estado": "Yucatán",
+            "pais": "México"
+        }
+    },
+    "Torres10": {
+        "nombre": "Gabriela",
+        "apellido": "Torres",
+        "direccion": {
+            "calle": "Calle Luna 987",
+            "ciudad": "León",
+            "estado": "Guanajuato",
+            "pais": "México"
+        }
+    }
+}

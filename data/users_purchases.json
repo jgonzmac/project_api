@@ -1,0 +1,143 @@
+
+{
+    "Juan01": {
+        "purchases": [
+            {
+                "concept": "Suscripción  Netflix",
+                "quantity": 1,
+                "cost": 149
+            },
+            {
+                "concept": "Audífonos Bluetooth",
+                "quantity": 1,
+                "cost": 799
+            }
+        ]
+    },
+    "Ana02": {
+        "purchases": [
+            {
+                "concept": "Curso Online de Fotografía",
+                "quantity": 1,
+                "cost": 1200
+            },
+            {
+                "concept": "Cámara",
+                "quantity": 1,
+                "cost": 8500
+            }
+        ]
+    },
+    "Carlos03": {
+        "purchases": [
+            {
+                "concept": "Membresía de Gimnasio",
+                "quantity": 1,
+                "cost": 600
+            },
+            {
+                "concept": "Proteína en Polvo",
+                "quantity": 2,
+                "cost": 1200
+            }
+        ]
+    },
+    "Maria04": {
+        "purchases": [
+            {
+                "concept": "Boleto de Avión",
+                "quantity": 1,
+                "cost": 3500
+            },
+            {
+                "concept": "Hospedaje en Hotel",
+                "quantity": 3,
+                "cost": 9000
+            }
+        ]
+    },
+    "Pedropedro05": {
+        "purchases": [
+            {
+                "concept": "Computadora",
+                "quantity": 1,
+                "cost": 15000
+            },
+            {
+                "concept": "Teclado",
+                "quantity": 1,
+                "cost": 1200
+            }
+        ]
+    },
+    "Laura06": {
+        "purchases": [
+            {
+                "concept": "Zapatos Deportivos",
+                "quantity": 1,
+                "cost": 2300
+            },
+            {
+                "concept": "Ropa Deportiva",
+                "quantity": 3,
+                "cost": 1500
+            }
+        ]
+    },
+    "Jorge07": {
+        "purchases": [
+            {
+                "concept": "Asador profesional",
+                "quantity": 1,
+                "cost": 2500.00
+            },
+            {
+                "concept": "vajillas",
+                "quantity": 1,
+                "cost": 600
+            }
+        ]
+    },
+    "Elena08": {
+        "purchases": [
+            {
+                "concept": "Suscripción Prime",
+                "quantity": 1,
+                "cost": 899
+            },
+            {
+                "concept": "Libro",
+                "quantity": 1,
+                "cost": 250
+            }
+        ]
+    },
+    "Luis09": {
+        "purchases": [
+            {
+                "concept": "Celular",
+                "quantity": 1,
+                "cost": 7500
+            },
+            {
+                "concept": "Funda Protectora",
+                "quantity": 1,
+                "cost": 300
+            }
+        ]
+    },
+    "Torres10": {
+        "purchases": [
+            {
+                "concept": "Clase de Yoga",
+                "quantity": 1,
+                "cost": 800
+            },
+            {
+                "concept": "Tapete de Yoga",
+                "quantity": 1,
+                "cost": 500
+            }
+        ]
+    }
+}

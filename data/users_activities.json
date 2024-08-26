@@ -1,0 +1,42 @@
+{
+    "Juan01": {
+        "job": "Ingeniero de Software",
+        "hobbies": ["Programación", "Ciclismo", "Videojuegos"]
+    },
+    "Ana02": {
+        "job": "Fotógrafa Profesional",
+        "hobbies": ["Fotografía", "Viajes", "Cine"]
+    },
+    "Carlos03": {
+        "job": "Nutricionista",
+        "hobbies": ["Cocina Saludable", "CrossFit", "Lectura"]
+    },
+    "Maria04": {
+        "job": "Diseñadora Gráfica",
+        "hobbies": ["Ilustración", "Moda", "Pintura"]
+    },
+    "Pedropedro05": {
+        "job": "Analista Financiero",
+        "hobbies": ["Inversiones", "Ajedrez", "Correr"]
+    },
+    "Laura06": {
+        "job": "Abogada",
+        "hobbies": ["Lectura de Leyes", "Escalada", "Yoga"]
+    },
+    "Jorge07": {
+        "job": "Chef",
+        "hobbies": ["Gastronomía", "Caza", "Colección de cuchillos"]
+    },
+    "Elena08": {
+        "job": "Arquitecta",
+        "hobbies": ["Diseño de Interiores", "Jardinería", "Fotografía"]
+    },
+    "Luis09": {
+        "job": "Médico",
+        "hobbies": ["Investigación Médica", "Pesca", "Golf"]
+    },
+    "Torres10": {
+        "job": "Psicóloga",
+        "hobbies": ["Meditación", "Escritura", "Teatro"]
+    }
+}
