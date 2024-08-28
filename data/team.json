@@ -1,0 +1,64 @@
+{
+    "users_activities": [
+        {
+            "user_id": "Juan01",
+            "name": "Juan",
+            "job": "Ingeniero de Software",
+            "hobbies": ["Programación", "Ciclismo", "Videojuegos"]
+        },
+        {
+            "user_id": "Ana02",
+            "name": "Ana",
+            "job": "Fotógrafa Profesional",
+            "hobbies": ["Fotografía", "Viajes", "Cine"]
+        },
+        {
+            "user_id": "Carlos03",
+            "name": "Carlos",
+            "job": "Nutricionista",
+            "hobbies": ["Cocina Saludable", "CrossFit", "Lectura"]
+        },
+        {
+            "user_id": "Maria04",
+            "name": "Maria",
+            "job": "Diseñadora Gráfica",
+            "hobbies": ["Ilustración", "Moda", "Pintura"]
+        },
+        {
+            "user_id": "Pedropedro05",
+            "name": "Pedropedro",
+            "job": "Analista Financiero",
+            "hobbies": ["Inversiones", "Ajedrez", "Correr"]
+        },
+        {
+            "user_id": "Laura06",
+            "name": "Laura",
+            "job": "Abogada",
+            "hobbies": ["Lectura de Leyes", "Escalada", "Yoga"]
+        },
+        {
+            "user_id": "Jorge07",
+            "name": "Jorge",
+            "job": "Chef",
+            "hobbies": ["Gastronomía", "Caza", "Colección de cuchillos"]
+        },
+        {
+            "user_id": "Elena08",
+            "name": "Elena",
+            "job": "Arquitecta",
+            "hobbies": ["Diseño de Interiores", "Jardinería", "Fotografía"]
+        },
+        {
+            "user_id": "Luis09",
+            "name": "Luis",
+            "job": "Médico",
+            "hobbies": ["Investigación Médica", "Pesca", "Golf"]
+        },
+        {
+            "user_id": "Torres10",
+            "name": "Torres",
+            "job": "Psicóloga",
+            "hobbies": ["Meditación", "Escritura", "Teatro"]
+        }
+    ]
+}
